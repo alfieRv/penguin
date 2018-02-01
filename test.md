@@ -5,24 +5,33 @@ I used [tryruby.org](http://tryruby.org/levels/1/challenges/0) to learn the basi
                                                        
 * Strings
      
-     `"This is a string"`
+     ```ruby
+     "This is a string"`
 * Methods 
 
-    `m = 12.method("+")`  
-    `m.call(3)    #=> 15`  
-    `m.call(20)   #=> 32`
+    ```ruby
+    m = 12.method("+")
+    m.call(3)    #=> 15  
+    m.call(20)   #=> 32
+    ```
 
 * Arrays 
     
-    `["A string", 1, true, :symbol, 2]`
+    ```ruby
+    ["A string", 1, true, :symbol, 2]
+    ```
 * Variables
 
-    `@@total = 0`
+    ```ruby
+    @@total = 0
+    ```
 * Class
      
-     `class Name`  
-          `# some code describing the class behavior`  
-      `end`  
+     ```ruby
+     class Name  
+          # some code describing the class behavior
+     end
+     ```  
 
 ### Ruby on rails
 
