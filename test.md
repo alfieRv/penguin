@@ -4,7 +4,8 @@
 I used [tryruby.org](http://tryruby.org/levels/1/challenges/0) to learn the basics of Ruby. Here I learnt about the following:
                                                        
 * Strings
-* Methods
+    * `"This is a string"`
+* Methods 
 * Arrays 
 * Variables
 * Class
