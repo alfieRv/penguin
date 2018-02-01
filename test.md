@@ -4,11 +4,25 @@
 I used [tryruby.org](http://tryruby.org/levels/1/challenges/0) to learn the basics of Ruby. Here I learnt about the following:
                                                        
 * Strings
-    * `"This is a string"`
+     
+     `"This is a string"`
 * Methods 
+
+    `m = 12.method("+")`  
+    `m.call(3)    #=> 15`  
+    `m.call(20)   #=> 32`
+
 * Arrays 
+    
+    `["A string", 1, true, :symbol, 2]`
 * Variables
+
+    `@@total = 0`
 * Class
+     
+     `class Name`  
+          `# some code describing the class behavior`  
+      `end`  
 
 ### Ruby on rails
 
