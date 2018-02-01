@@ -10,7 +10,6 @@ I used [tryruby.org](http://tryruby.org/levels/1/challenges/0) to learn the basi
 * Variables
 * Class
 
-
 ### Ruby on rails
 
 I was then introduced to Ruby on rails by using [railsforzombies.org](http://railsforzombies.org/) Rails for zombies taught me the following:
